@@ -3,6 +3,7 @@ function App() {
     <div className="App">
       <h1>Hello World!</h1>
       <h2>Happy 2026 SoCITFest</h2>
+      <h3>Have a good long weekend</h3>
       <p>John Bernard Cabras</p>
     </div>
   );
